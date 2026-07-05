@@ -1,0 +1,22 @@
+name: Generate Profile Metrics
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"  # refresh twice a day
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
