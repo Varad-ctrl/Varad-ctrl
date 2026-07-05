@@ -626,21 +626,37 @@ Browser → NGINX → Node.js API → MySQL → Persistent Volume
 
 ---
 
-# 📌 Featured Repository Cards
+# 📌 Featured Repositories
 
-> ⚠️ Replace the repository names below with the **exact, case-sensitive** names of your public repos.
+> 🚀 Explore some of my production-ready DevOps, Cloud, and AI projects.
 
 <p align="center">
-<a href="https://github.com/Varad-ctrl/stocksense-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Varad-ctrl&repo=stocksense-ai&theme=tokyonight&hide_border=true"/></a>
-<a href="https://github.com/Varad-ctrl/fintrack-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Varad-ctrl&repo=fintrack-app&theme=tokyonight&hide_border=true"/></a>
+
+<a href="https://github.com/Varad-ctrl/stocksense-ai">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Varad-ctrl&repo=stocksense-ai&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Varad-ctrl/fintrack-app">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Varad-ctrl&repo=fintrack-app&theme=tokyonight&hide_border=true"/>
+</a>
+
 </p>
 
 <p align="center">
-<a href="https://github.com/Varad-ctrl/notes-app-dockerize"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Varad-ctrl&repo=notes-app-dockerize&theme=tokyonight&hide_border=true"/></a>
-<a href="https://github.com/Varad-ctrl/jenkins-shared-library"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Varad-ctrl&repo=jenkins-shared-library&theme=tokyonight&hide_border=true"/></a>
+
+<a href="https://github.com/Varad-ctrl/notes-app-dockerize">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Varad-ctrl&repo=notes-app-dockerize&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Varad-ctrl/jenkins-shared-library">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Varad-ctrl&repo=jenkins-shared-library&theme=tokyonight&hide_border=true"/>
+</a>
+
 </p>
 
-> Also pin the same repos via *GitHub → Your Profile → Customize your pins* so both stay in sync.
+<p align="center">
+💡 <i>More production-ready DevOps, Cloud, Kubernetes, and AI projects are available in my repositories.</i>
+</p>
 
 ---
 
