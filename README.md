@@ -443,12 +443,6 @@ flowchart TD
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varad-ctrl&theme=tokyo-night&hide_border=true"/>
 </p>
 
-# 🏆 GitHub Trophies
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Varad-ctrl&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
-
-</p>
 # 📅 GitHub Metrics Dashboard
 
 <p align="center">
