@@ -626,39 +626,35 @@ Browser → NGINX → Node.js API → MySQL → Persistent Volume
 
 ---
 
-# 📌 Featured Repositories
+# 🚀 Featured Projects
 
-> 🚀 Explore some of my production-ready DevOps, Cloud, and AI projects.
+> **Here are some of the production-ready projects I've built, showcasing DevOps, Cloud, Kubernetes, CI/CD, and AI solutions.**
 
-<p align="center">
-
-<a href="https://github.com/Varad-ctrl/stocksense-ai">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Varad-ctrl&repo=stocksense-ai&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Varad-ctrl/fintrack-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Varad-ctrl&repo=fintrack-app&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/Varad-ctrl/notes-app-dockerize">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Varad-ctrl&repo=notes-app-dockerize&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Varad-ctrl/jenkins-shared-library">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Varad-ctrl&repo=jenkins-shared-library&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
-<p align="center">
-💡 <i>More production-ready DevOps, Cloud, Kubernetes, and AI projects are available in my repositories.</i>
-</p>
+| Project | Description | Technologies |
+|:--------|:------------|:-------------|
+| **📈 StockSense AI** | AI-powered stock market analysis platform providing intelligent investment insights using historical and live market data. | Python • FastAPI • Machine Learning • Docker |
+| **💰 FinTrack App** | Production-style three-tier finance management application deployed on Kubernetes with automated GitLab CI/CD pipelines. | Kubernetes • Docker • GitLab CI/CD • MySQL • NGINX |
+| **📝 Notes App** | Cloud-native Notes application deployed on Kubernetes with persistent storage, ingress, secrets, and scalable deployments. | Docker • Kubernetes • Node.js • MySQL |
+| **⚙ Jenkins Shared Library** | Reusable Jenkins Shared Library for standardizing enterprise CI/CD pipelines across multiple projects. | Jenkins • Groovy • Docker |
+| **☁ Infrastructure Automation** | Infrastructure provisioning on AWS using Infrastructure as Code with Terraform and automation best practices. | Terraform • AWS • Linux |
+| **📊 Monitoring Stack** | Production monitoring solution for Kubernetes workloads using Prometheus and Grafana dashboards. | Prometheus • Grafana • Kubernetes |
 
 ---
+
+## ⭐ Featured Technologies
+
+```text
+☁ Cloud Computing
+🐳 Docker
+☸ Kubernetes
+⚙ Terraform
+🔄 GitLab CI/CD
+🔧 Jenkins
+📈 Prometheus
+📊 Grafana
+🐧 Linux
+🤖 AI + DevOps
+```
 
 # 🏆 Engineering Highlights
 
