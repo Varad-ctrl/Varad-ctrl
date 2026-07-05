@@ -234,11 +234,11 @@ Containerized Notes App with Kubernetes deployment, persistent storage, services
 
 <p align="center">
 <a href="https://github.com/Varad-ctrl/stocksense-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Varad-ctrl&repo=stocksense-ai&theme=tokyonight&hide_border=true"/></a>
-<a href="https://github.com/Varad-ctrl/finance-tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Varad-ctrl&repo=finance-tracker&theme=tokyonight&hide_border=true"/></a>
+<a href="https://github.com/Varad-ctrl/fintrack-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Varad-ctrl&repo=finance-tracker&theme=tokyonight&hide_border=true"/></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/Varad-ctrl/kubernetes-notes-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Varad-ctrl&repo=kubernetes-notes-app&theme=tokyonight&hide_border=true"/></a>
+<a href="https://github.com/Varad-ctrl/ notes-app-dockerize"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Varad-ctrl&repo=kubernetes-notes-app&theme=tokyonight&hide_border=true"/></a>
 <a href="https://github.com/Varad-ctrl/jenkins-shared-library"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Varad-ctrl&repo=jenkins-shared-library&theme=tokyonight&hide_border=true"/></a>
 </p>
 
