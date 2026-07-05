@@ -444,11 +444,11 @@ flowchart TD
 </p>
 
 # 🏆 GitHub Trophies
-
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Varad-ctrl&theme=algolia&no-frame=true&column=4&margin-w=15"/>
-</p>
 
+<img src="https://github-profile-trophy.vercel.app/?username=Varad-ctrl&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+
+</p>
 # 📅 GitHub Metrics Dashboard
 
 <p align="center">
